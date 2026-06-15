@@ -9,3 +9,4 @@ SteamProfile v1.0
 
 Требуется:
 - ffmpeg.exe должен лежать рядом с SteamProfile.exe
+https://drive.google.com/file/d/1Exi9l33NA6KybkfgMbhhcmInb2rmw19n/view?usp=sharing
