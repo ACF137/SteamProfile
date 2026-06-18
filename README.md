@@ -6,10 +6,13 @@ Utility for converting MP4 videos into GIFs for Steam Artwork Showcase and Steam
 
 * MP4 → GIF conversion
 * Adjustable FPS (1–30)
-* Adjustable output width (200–1444 px)
+* Adjustable output width (100–1444 px)
 * Steam Workshop Mode
+* Automatic frame extraction
 * Automatic split into 5 separate GIF files
 * GIF patching for Steam Workshop compatibility
+* Steam instruction generator
+* Cyberpunk-inspired UI
 * Local processing (no browser, no upload required)
 
 ## Steam Workshop Mode
@@ -28,15 +31,40 @@ This allows creating multi-panel Steam artwork showcases similar to those common
 ## Requirements
 
 * Windows
-* ffmpeg.exe must be located next to SteamProfile.exe (https://drive.google.com/file/d/1Exi9l33NA6KybkfgMbhhcmInb2rmw19n/view?usp=sharing)
+* ffmpeg.exe must be located next to SteamProfile.exe
+
+FFmpeg download:
+
+https://drive.google.com/file/d/1Exi9l33NA6KybkfgMbhhcmInb2rmw19n/view?usp=sharing
 
 ## Usage
 
-1. Select an MP4 file.
-2. Choose FPS and output size.
-3. Enable Workshop Mode if you need a 5-panel Steam artwork.
-4. Click Start.
+1. Select an MP4 file
+2. Choose FPS
+3. Choose output width
+4. Enable Workshop Mode if needed
+5. Click CONVERT
+6. Upload the generated GIF files to Steam
+
+## Changelog
+
+### v2.0.0
+
+* Complete UI redesign
+* Cyberpunk-inspired interface
+* Custom animated controls
+* Steam instruction generator
+* Improved Workshop workflow
+* Output width range changed to 100–1440 px
+* General code cleanup and improvements
+
+### v1.0.0
+
+* Initial release
+* MP4 → GIF conversion
+* Steam Workshop Mode
+* Automatic split into 5 GIF files
 
 ## Version
 
-v1.0.0
+Current version: v2.0.0
