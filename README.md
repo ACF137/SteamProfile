@@ -84,4 +84,4 @@ https://drive.google.com/file/d/1Exi9l33NA6KybkfgMbhhcmInb2rmw19n/view?usp=shari
 
 ## Version
 
-Current version: v2.0.0
+Current version: v3.0.0
